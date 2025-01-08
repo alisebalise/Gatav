@@ -1,0 +1,8 @@
+vards = "Alise"
+print("Mani sauc:", vards)
+
+patik = "dzert tēju"
+print("Man patīk:", patik)
+
+lala = input("Kā tevi sauc")
+print("Tevi sauc", lala )
